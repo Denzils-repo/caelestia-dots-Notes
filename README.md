@@ -1,4 +1,4 @@
-# 🌌 Caelestia Notes
+# <p align="left"><img src="/logo.svg" width="75" height="75" alt="Caelestia Notes logo" /></p> Caelestia Notes
 
 > A local-first, privacy-focused notes app for Android, built to integrate seamlessly with the **Vanilla Caelestia Shell**.
 
@@ -26,7 +26,7 @@ The app is designed to work independently on Android while also providing the re
 
 ---
 
-# 📱 Android App
+## 📱 Android App
 
 The primary purpose of this repository is the **Caelestia Notes Android application**.
 
@@ -56,7 +56,7 @@ The goal is for the Android application to feel like a native part of Caelestia 
 
 ---
 
-# 🔄 Synchronization
+## 🔄 Synchronization
 
 Caelestia Notes supports direct device-to-device synchronization.
 
@@ -64,10 +64,10 @@ No cloud database is required.
 
 ```text
 ┌──────────────────────┐
-│   Android Device     │
-│                      │
-│  Caelestia Notes     │
-└──────────┬───────────┘
+│   Android Device      │
+│                        │
+│  Caelestia Notes       │
+└──────────┬─────────────┘
            │
        Local Sync
            │
@@ -77,7 +77,8 @@ No cloud database is required.
      │           │
      └─────┬─────┘
            │
-┌──────────▼───────────┐
-│  Vanilla Caelestia   │
-│       Shell           │
-└──────────────────────┘
+┌──────────▼─────────────┐
+│  Vanilla Caelestia      │
+│       Shell             │
+└─────────────────────────┘
+```
